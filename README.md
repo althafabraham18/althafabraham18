@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
-🎮 Building immersive experiences through GTA SA-MP Roleplay<br>🌐 Developing websites, tools, and web applications<br>⚙️ Turning ideas into systems that actually work<br>🧩 I enjoy solving problems and creating things from scratch<br>🚀 Always experimenting with new ideas and technologies
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xalthafabraham) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AlthafOfc) 
